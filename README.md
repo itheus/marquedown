@@ -10,7 +10,7 @@ Marquedown simplifies and pairs the [Editor.md](https://github.com/pandao/editor
 ## Download
 
 I'm currently only shipping a distro-agnostic **AppImage**, at least for the time-being. Feel free to build from source.
-Check out the **[Releases](https://github.com/itheus/marquedown)** page.
+Check out the **[Releases](https://github.com/itheus/marquedown/releases)** page.
 
 ### To run the App:
 Use [Gear Lever](https://github.com/mijorus/gearlever "Gear Lever") to integrate the appimage on your system.
