@@ -1,11 +1,15 @@
-<img align=center src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/icon.png"  width="120"  alt="Marquedown icon">
-<h1>Marquedown</h1>
+<p align="center">
+  <img align=center src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/icon.png"  width="120"  alt="Marquedown icon">
+   </p>
+   
+<h1 align="center">Marquedown</h1>
 
-A lightweight Markdown editor with live preview & syntax highlighting, built with Electron.
 
-Marquedown simplifies and pairs the [Editor.md](https://github.com/pandao/editor.md) editor with a shell and adds enhancements and extra functionality.
+<p align="center"> A lightweight Markdown editor with live preview & syntax highlighting, built with Electron. </p>
 
-<img  src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/screenshot.png"  width="720">
+<p align="center"> <img  src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/screenshot.png"  width="720">
+</p>
+
 
 ## Download
 
@@ -29,6 +33,8 @@ chmod +x Marquedown-1.0.0.AppImage
 - **Search & replace**
 - **Switch between Light and dark themes in realtime**
 - **Native file handling**
+
+>Marquedown simplifies and pairs the [Editor.md](https://github.com/pandao/editor.md) editor with a shell and adds enhancements and extra functionality.
 
 ## Keyboard shortcuts
 
