@@ -315,7 +315,7 @@ async function createWindow() {
     height: 900,
     ...savedBounds,
     title: "Marquedown",
-    icon: path.join(ROOT, "icon.png"),
+    icon: path.join(ROOT, "assets", "icon.png"),
 
     minWidth: 1340,
     minHeight: 360,

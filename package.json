@@ -27,18 +27,16 @@
       "main.js",
       "preload.js",
       "index.html",
-      "editormd.min.js",
-      "jquery.min.js",
-      "icon.png",
       "css/**/*",
       "lib/**/*",
-      "plugins/**/*"
+      "plugins/**/*",
+      "assets/icon.png"
     ],
     "linux": {
       "target": [
         "AppImage"
       ],
-      "icon": "icon.png",
+      "icon": "assets/icon.png",
       "category": "Office",
       "executableName": "marquedown",
       "syncDesktopName": true,
