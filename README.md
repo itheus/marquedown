@@ -1,5 +1,5 @@
 <img align=center src="https://i.postimg.cc/J0J2Xp6Q/icon.png"  width="120"  alt="Marquedown icon">
-<h1  align="center">Marquedown</h1>
+<h1>Marquedown</h1>
 
 A lightweight Markdown editor with live preview & syntax highlighting, built with Electron.
 
