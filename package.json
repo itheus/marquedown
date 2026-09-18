@@ -1,0 +1,51 @@
+{
+  "name": "marquedown",
+  "version": "1.0.0",
+  "description": "A lightweight Markdown editor with live preview & syntax highlighting.",
+  "main": "main.js",
+  "private": true,
+  "desktopName": "com.marquedown.app",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --linux AppImage"
+  },
+  "devDependencies": {
+    "electron": "^44.3.0",
+    "electron-builder": "^26.15.3"
+  },
+  "author": "Marquedown",
+  "build": {
+    "appId": "com.marquedown.app",
+    "productName": "Marquedown",
+    "toolsets": {
+      "appimage": "1.0.3"
+    },
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "index.html",
+      "editormd.min.js",
+      "jquery.min.js",
+      "icon.png",
+      "css/**/*",
+      "lib/**/*",
+      "plugins/**/*"
+    ],
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "icon": "icon.png",
+      "category": "Office",
+      "executableName": "marquedown",
+      "syncDesktopName": true,
+      "mimeTypes": [
+        "text/markdown",
+        "text/plain"
+      ]
+    }
+  }
+}
