@@ -1,11 +1,11 @@
-<img align=center src="https://i.postimg.cc/J0J2Xp6Q/icon.png"  width="120"  alt="Marquedown icon">
+<img align=center src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/icon.png"  width="120"  alt="Marquedown icon">
 <h1>Marquedown</h1>
 
 A lightweight Markdown editor with live preview & syntax highlighting, built with Electron.
 
 Marquedown simplifies and pairs the [Editor.md](https://github.com/pandao/editor.md) editor with a shell and adds enhancements and extra functionality.
 
-<img  src="https://i.postimg.cc/FKL3Nw7H/marquedown.png"  width="720">
+<img  src="https://raw.githubusercontent.com/itheus/marquedown/refs/heads/main/assets/screenshot.png"  width="720">
 
 ## Download
 
